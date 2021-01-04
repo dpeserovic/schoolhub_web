@@ -1,0 +1,24 @@
+.navbar
+{
+    background-color: #dc3545;
+}
+.link-1
+{
+    color: #ffffff;
+}
+.center
+{
+    text-align: center;
+}
+.list li
+{
+    border: none;
+}
+.input
+{
+    width: 25%;
+}
+.textArea
+{
+    width: 50%;
+}
